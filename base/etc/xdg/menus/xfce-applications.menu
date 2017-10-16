@@ -8,6 +8,10 @@
   <DefaultDirectoryDirs/>
   <DefaultMergeDirs/>
 
+  <Include>
+    <Category>X-Xfce-Toplevel</Category>
+  </Include>
+
   <Menu>
     <Name>Accessories</Name>
     <Directory>xfce-accessories.directory</Directory>
@@ -130,12 +134,12 @@
     <Include>
       <Filename>xfce-settings-manager.desktop</Filename>
       <Filename>YaST.desktop</Filename>
-      <Filename>package-manager.desktop</Filename>
+      <Filename>yast2-packager.desktop</Filename>
     </Include>
     <Layout>
       <Filename>xfce-settings-manager.desktop</Filename>
       <Filename>YaST.desktop</Filename>
-      <Filename>package-manager.desktop</Filename>
+      <Filename>yast2-packager.desktop</Filename>
     </Layout>
   </Menu>
 

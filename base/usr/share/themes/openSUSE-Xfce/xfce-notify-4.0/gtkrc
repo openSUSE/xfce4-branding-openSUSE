@@ -1,0 +1,29 @@
+style "notification_window"
+{
+	bg[NORMAL]	= @tooltip_bg_color
+
+	XfceNotifyWindow::border-radius		= 10.0
+	XfceNotifyWindow::border-width		= 0.0
+	XfceNotifyWindow::border-width-hover	= 0.0
+}
+
+style "notification_body"
+{
+	fg[NORMAL]	= @tooltip_fg_color
+	base[PRELIGHT]	= @tooltip_bg_color
+	base[ACTIVE]	= shade (1.2, @tooltip_bg_color)
+
+	GtkWidget::link-color		= @tooltip_fg_color
+	GtkWidget::visited-link-color	= shade (0.8, @tooltip_fg_color)
+}
+
+style "notification_summary"
+{
+	fg[NORMAL]	= @tooltip_fg_color
+
+	font_name	= "Bold"
+}
+
+class "XfceNotifyWindow"		style "notification_window"
+widget "XfceNotifyWindow.*.summary"	style "notification_summary"
+widget "XfceNotifyWindow.*.body"	style "notification_body"

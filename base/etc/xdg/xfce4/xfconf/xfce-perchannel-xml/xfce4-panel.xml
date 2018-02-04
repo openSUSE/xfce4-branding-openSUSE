@@ -36,7 +36,7 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-6" type="string" value="mixer"/>
+    <property name="plugin-6" type="string" value="pulseaudio"/>
     <property name="plugin-13" type="string" value="power-manager-plugin"/>
     <property name="plugin-7" type="string" value="systray">
       <property name="show-frame" type="bool" value="false"/>

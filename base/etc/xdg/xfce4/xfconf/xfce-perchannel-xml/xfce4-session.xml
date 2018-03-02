@@ -40,7 +40,9 @@
         <property name="Font" type="string" value="Sans 10"/>
         <property name="BgColor" type="string" value="#D5DAD5"/>
         <property name="FgColor" type="string" value="#000000"/>
+<!-- use stylish upstream default
         <property name="Image" type="string" value="/usr/share/pixmaps/xfce4-splash-openSUSE.png"/>
+-->
       </property>
     </property>
   </property>

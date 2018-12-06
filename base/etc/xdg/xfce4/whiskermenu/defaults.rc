@@ -2,3 +2,6 @@ button-title= Menu
 button-icon=xfce4-opensuse-light
 show-button-title=true
 show-button-icon=true
+position-search-alternate=true
+position-commands-alternate=false
+position-categories-alternate=true

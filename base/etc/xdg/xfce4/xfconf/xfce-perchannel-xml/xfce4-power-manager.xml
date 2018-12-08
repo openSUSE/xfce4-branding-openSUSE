@@ -23,6 +23,7 @@
     <property name="lock-screen-suspend-hibernate" type="bool" value="true"/>
     <property name="network-manager-sleep" type="bool" value="true"/>
     <property name="power-button-action" type="uint" value="3"/>
+    <property name="show-panel-label" type="int" value="0"/>
     <property name="sleep-button-action" type="uint" value="1"/>
     <property name="spin-down-hdd" type="uint" value="1"/>
     <property name="spin-down-on-ac-timeout" type="uint" value="0"/>

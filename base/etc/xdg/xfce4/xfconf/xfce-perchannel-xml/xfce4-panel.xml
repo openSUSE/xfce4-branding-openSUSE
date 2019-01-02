@@ -30,11 +30,11 @@
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="whiskermenu"/>
-    <property name="plugin-2" type="string" value="separator"/>
+    <property name="plugin-2" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-3" type="string" value="showdesktop"/>
-    <property name="plugin-4" type="string" value="tasklist"/>
+    <property name="plugin-4" type="string" value="tasklist">
       <property name="flat-buttons" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
     </property>

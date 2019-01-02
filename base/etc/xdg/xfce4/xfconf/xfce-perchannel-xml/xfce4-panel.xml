@@ -35,7 +35,8 @@
     </property>
     <property name="plugin-3" type="string" value="showdesktop"/>
     <property name="plugin-4" type="string" value="tasklist"/>
-     <property name="flat-buttons" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="false"/>
     </property>
     <property name="plugin-5" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>

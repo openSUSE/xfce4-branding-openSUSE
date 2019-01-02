@@ -17,14 +17,14 @@
   </property>
   <property name="autoplay-audio-cds" type="empty">
     <property name="enabled" type="bool" value="false"/>
-    <property name="command" type="string" value="/usr/bin/totem cdda://%d"/>
+    <property name="command" type="string" value="/usr/bin/pragha cdda://%d"/>
   </property>
   <property name="autoplay-video-cds" type="empty">
-    <property name="command" type="string" value="/usr/bin/totem dvd://%d"/>
+    <property name="command" type="string" value="/usr/bin/parole dvd://%d"/>
     <property name="enabled" type="bool" value="false"/>
   </property>
   <property name="autoipod" type="empty">
-    <property name="command" type="string" value="/usr/bin/rhythmbox"/>
+    <property name="command" type="string" value="/usr/bin/pragha"/>
     <property name="enabled" type="bool" value="false"/>
   </property>
   <property name="autophoto" type="empty">

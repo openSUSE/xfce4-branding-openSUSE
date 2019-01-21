@@ -15,6 +15,6 @@
   <property name="Gtk" type="empty">
     <property name="FontName" type="string" value="Noto Sans 11"/>
     <property name="MonospaceFontName" type="string" value="Hack 12"/>
-    <property name="CursorThemeName" type="string" value="Adwaita"/>
+    <property name="CursorThemeName" type="string" value="DMZ-Black"/>
   </property>
 </channel>

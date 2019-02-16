@@ -4,7 +4,7 @@
 # Copyright (c) 2005-2006 Benedikt Meurer <benny@xfce.org>
 #
 
-WebBrowser=firefox
+WebBrowser=midori
 MailReader=thunderbird
 TerminalEmulator=xfce4-terminal
 FileManager=Thunar

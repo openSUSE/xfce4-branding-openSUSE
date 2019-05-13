@@ -51,6 +51,8 @@
     <property name="plugin-15" type="string" value="statusnotifier">
       <property name="menu-is-primary" type="bool" value="true"/>
       <property name="square-icons" type="bool" value="true"/>
+      <property name="icon-size" type="int" value="16"/>
+      <property name="symbolic-icons" type="bool" value="true"/>
     </property>
     <property name="plugin-8" type="string" value="pager"/>
     <property name="plugin-9" type="string" value="separator">

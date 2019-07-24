@@ -49,6 +49,7 @@
     <property name="plugin-7" type="string" value="systray">
       <property name="show-frame" type="bool" value="false"/>
       <property name="square-icons" type="bool" value="true"/>
+      <property name="size-max" type="uint" value="16"/>
     </property>
     <property name="plugin-15" type="string" value="statusnotifier">
       <property name="menu-is-primary" type="bool" value="true"/>

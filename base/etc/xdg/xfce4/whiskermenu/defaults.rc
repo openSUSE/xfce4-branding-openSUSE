@@ -1,5 +1,5 @@
 button-title=\ Menu\ 
-button-icon=xfce4-opensuse-green
+button-icon=xfce4-button-opensuse
 show-button-title=true
 show-button-icon=true
 position-search-alternate=false

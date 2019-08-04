@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="256"
+   height="256"
+   id="svg3047"
+   sodipodi:docname="xfce4-mouse.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview9"
+     showgrid="true"
+     inkscape:zoom="6.39"
+     inkscape:cx="106.67331"
+     inkscape:cy="98.226321"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <title
+     id="title4531">Whisker Menu icon</title>
+  <defs
+     id="defs3049" />
+  <metadata
+     id="metadata3052">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Whisker Menu icon</dc:title>
+        <dc:date>2013-06-16</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Graeme Gott</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-796.36218)"
+     id="layer1">
+    <path
+       style="fill:#00a489;fill-opacity:1;stroke:none"
+       d="m 128,0 a 128,128 0 0 0 0,256 128,128 0 0 0 0,-256 z m -23.40625,40.855469 c 0.26673,-0.0041 0.53052,-0.0011 0.78906,0.01172 v 0.002 c 19.99441,1.03329 15.9308,51.940703 16.58789,53.533203 1.54356,3.74058 97.23269,6.649918 103.0293,51.097658 0.38445,25.56528 -70.66921,65.9431 -124.71094,65.5625 C 72.292818,210.8654 47.060654,201.79603 42.150391,170.84766 37.841817,153.7771 36.324462,117.8264 52,105.02539 c 3.96905,-1.14823 -14.715406,-36.59167 5.183594,-47.93164 14.18903,-7.3298 26.159574,33.764891 29.802734,38.363281 1.6321,2.05738 10.276933,2.585708 9.251953,-2.101562 -1.11074,-5.09137 -15.04225,-44.481171 2.13086,-51.087891 2.288099,-0.936495 4.357489,-1.383318 6.224609,-1.412109 z m 99.29297,29.439453 c 0.0525,-0.01511 0.0651,0.05701 0.0977,0.101562 2.51169,1.89134 -2.24829,38.477426 -5,36.349606 -3.10474,-1.56018 3.31135,-35.742198 4.90234,-36.451168 z m 23.61133,4.689453 c 0.11635,0 0.19388,0.02154 0.27148,0.08984 1.179,1.20286 -15.94763,37.145395 -18.69922,35.017585 -4.43345,-3.39349 14.81882,-35.175729 18.42774,-35.107429 z M 134.1875,113.72656 c -4.55911,0 -8.23438,4.30257 -8.23438,9.66797 0,5.36549 3.67516,9.75781 8.23438,9.75781 4.55922,0 8.24609,-4.39232 8.24609,-9.75781 0,-5.3654 -3.68687,-9.66797 -8.24609,-9.66797 z m -18.50391,5.84571 c -8.20759,5.99721 4.44506,39.89704 25.35352,20.08007 -16.42736,0.49958 -21.84654,-4.4326 -25.35352,-20.08007 z m 45.1543,40.91992 c -0.28515,-0.0142 -0.59068,-0.007 -0.91601,0.0215 h -0.002 c -9.10846,0.76359 -33.20442,16.12258 -32.76562,17.70313 0.29032,2.29305 43.87205,-13.93939 35.63476,-17.02539 -0.42899,-0.42333 -1.09571,-0.65676 -1.95117,-0.69922 z m 4.44922,10.35547 c -6.76264,0.54168 -25.64732,23.71932 -23.03711,25.34961 -0.36456,0.62248 32.02521,-17.07607 24.25,-25.06055 -0.33221,-0.17525 -0.75995,-0.32316 -1.21094,-0.28906 z"
+       transform="translate(0,796.36218)"
+       id="path4343"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

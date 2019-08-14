@@ -133,13 +133,13 @@
     <Directory>xfce-settings.directory</Directory>
     <Include>
       <Filename>xfce-settings-manager.desktop</Filename>
-      <Filename>YaST.desktop</Filename>
-      <Filename>yast2-packager.desktop</Filename>
+      <Filename>org.openSUSE.YaST.desktop</Filename>
+      <Filename>org.opensuse.yast.Packager.desktop</Filename>
     </Include>
     <Layout>
       <Filename>xfce-settings-manager.desktop</Filename>
-      <Filename>YaST.desktop</Filename>
-      <Filename>yast2-packager.desktop</Filename>
+      <Filename>org.openSUSE.YaST.desktop</Filename>
+      <Filename>org.opensuse.yast.Packager.desktop</Filename>
     </Layout>
   </Menu>
 

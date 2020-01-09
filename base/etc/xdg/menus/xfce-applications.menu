@@ -165,7 +165,7 @@
 
     <Menu>
         <Name>YaST</Name>
-        <Directory>xfce-yast.directory</Directory>
+        <Directory>YaST.directory</Directory>
         <Include>
         <Category>X-SuSE-YaST</Category>
         <Filename>org.opensuse.YaST.desktop</Filename>

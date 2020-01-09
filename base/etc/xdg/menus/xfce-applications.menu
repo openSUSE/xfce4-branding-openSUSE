@@ -119,12 +119,12 @@
       <Or>
         <Category>Emulator</Category>
         <Category>System</Category>
+        <Category>PackageManager</Category>
       </Or>
     </Include>
     <Exclude>
       <Category>X-Xfce-Toplevel</Category>
       <Category>Settings</Category>
-      <Category>PackageManager</Category>
     </Exclude>
   </Menu>
 
@@ -135,15 +135,11 @@
       <Filename>xfce-settings-manager.desktop</Filename>
       <Filename>YaST.desktop</Filename>
       <Filename>org.opensuse.YaST.desktop</Filename>
-      <Filename>yast2-packager.desktop</Filename>
-      <Filename>org.opensuse.yast.Packager.desktop</Filename>
     </Include>
     <Layout>
       <Filename>xfce-settings-manager.desktop</Filename>
       <Filename>YaST.desktop</Filename>
       <Filename>org.opensuse.YaST.desktop</Filename>
-      <Filename>yast2-packager.desktop</Filename>
-      <Filename>org.opensuse.yast.Packager.desktop</Filename>
     </Layout>
   </Menu>
 

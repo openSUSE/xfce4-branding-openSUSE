@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=YaST
+Type=Directory
+Icon=yast
+NoDisplay=false
+OnlyShowIn=XFCE;

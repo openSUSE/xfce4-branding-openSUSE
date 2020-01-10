@@ -78,7 +78,6 @@
             </Or>
           </Not>
         </And>
-        <Category>PackageManager</Category>
       </Or>
     </Include>
   </Menu>

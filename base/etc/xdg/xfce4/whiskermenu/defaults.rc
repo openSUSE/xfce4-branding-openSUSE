@@ -1,5 +1,4 @@
 favorites=thunar.desktop,firefox.desktop,thunderbird.desktop,org.opensuse.YaST.desktop,org.opensuse.yast.Packager.desktop,xfce4-terminal-emulator.desktop
-recent=thunar.desktop,thunderbird.desktop,xfce4-panel-profiles.desktop,com.discordapp.Discord.desktop,firefox.desktop,xfce4-terminal-emulator.desktop,org.opensuse.yast.Packager.desktop,xfce-ui-settings.desktop,im.riot.Riot.desktop,org.gnome.gedit.desktop
 button-icon=xfce4-button-opensuse
 button-single-row=false
 show-button-title=true

@@ -37,7 +37,7 @@
     <!-- <property name="IMPreeditStyle" type="string" value=""/> -->
     <!-- <property name="IMStatusStyle" type="string" value=""/> -->
     <!-- <property name="IMModule" type="string" value=""/> -->
-    <property name="MenuImages" type="bool" value="false"/>
+    <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="string" value="F10"/>
     <property name="CursorThemeName" type="string" value="Adwaita"/>
